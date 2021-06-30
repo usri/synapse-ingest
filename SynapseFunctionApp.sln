@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynapseFunctionApp", "SynapseFunctionApp\SynapseFunctionApp.csproj", "{5100979D-52D5-499C-B6C1-C59BEA94E006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5100979D-52D5-499C-B6C1-C59BEA94E006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5100979D-52D5-499C-B6C1-C59BEA94E006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5100979D-52D5-499C-B6C1-C59BEA94E006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5100979D-52D5-499C-B6C1-C59BEA94E006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D3FEA30-7693-40A7-8943-D24B7FC5D4DB}
+	EndGlobalSection
+EndGlobal
